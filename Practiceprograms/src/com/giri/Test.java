@@ -18,7 +18,7 @@ public class Test {
 		
 		
 		
-		/* ArrayList<Integer> elements = new ArrayList<>();
+		 ArrayList<Integer> elements = new ArrayList<>();
 
         
         elements.add(10);
@@ -33,7 +33,7 @@ public class Test {
        System.out.println(i);
         }
    
-	}*/
+	
 
 		
 		
@@ -41,13 +41,13 @@ public class Test {
 		
 			
 		
-		String s1="a";
+	/*	String s1="a";
 		String s2="b";
 		String s3="s1"+"s2"; 
 		String s4="s1"+"s2";
 		String s19="s1"+"b";
 		System.out.println(s3==s19);
-		
+		*/
 		/*String s5="s1"+"b";
 		System.out.println(s3==s4);*/
 		
@@ -73,7 +73,7 @@ public class Test {
 		System.out.println(s8.hashCode());
 		*/
 }
-}
+
 		
 		
 		
